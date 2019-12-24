@@ -10,6 +10,8 @@ User flairs on r/soccer
 [Introduction](#introduction)
 
 [Questions to answer](#questions-to-answer)
+    
+   + [Does everyone have a flair?](#does-everyone-have-a-flair)
 
 [Challenges](#challenges)
 
@@ -30,6 +32,8 @@ and answered questions I was curious about.
 
 + General exploration
 
+    + #### Does everyone have a flair? 
+        I sampled a random 5 percent of the top 5000 posts for the month on r/soccer. For each post, I recorded all the comments and their users flairs and found that 28 percent of users have not chosen a flair. That is, about 7 out of 10 individuals have chosen a team or country to represent them. The data is available  in a csv file [here](https://github.com/ayoola-babatunde/flairs/blob/master/printout.csv). 
     + Which flairs get the most upvotes? 
     + Which flairs are the most plentiful? 
     
