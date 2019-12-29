@@ -28,6 +28,8 @@ individual to type "_I support x team, btw_" or "_As a x fan, ..._"
 Using [PRAW](https://praw.readthedocs.io/en/latest/), The Python Reddit API Wrapper, I extracted information about posts and comments 
 and answered questions I was curious about. 
 
+[1% rule of internet culture](https://en.wikipedia.org/wiki/1%25_rule_(Internet_culture)): Only about 1 percent of users on a website create new content. For example, there are 1.8 million users subscribed to r/soccer, but an average post only has 500 upvotes and top posts of the month have 35000 upvotes. The results of this analysis apply only to commenters on the subreddit. 
+
 ### Questions to answer
 
 + General exploration
