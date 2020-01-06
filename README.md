@@ -1,4 +1,4 @@
-# flairs
+# reddit flairs
 User flairs on r/soccer
 
 <br />
@@ -17,8 +17,7 @@ User flairs on r/soccer
 
 
 ### Introduction
-I am doing some exploratory analysis and data visualization of user flairs on the subreddit, r/soccer. Flairs are little badges a user 
-can have beside their username to show which team they support. 
+I am doing some data mining, exploratory analysis, and data visualization of user flairs on the subreddit, r/soccer. Flairs are little badges a user can have beside their username to show which team they support. 
 
 ![Flairs on r/soccer](https://i.redd.it/h8x41bzbk2641.png)
 
